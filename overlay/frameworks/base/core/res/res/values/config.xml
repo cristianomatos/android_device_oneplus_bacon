@@ -144,4 +144,7 @@
         <item>25</item>
     </integer-array>
 
+    <!-- Enable lockscreen rotation by default -->
+    <bool name="config_enableLockScreenRotation">true</bool>
+
 </resources>
